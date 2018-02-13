@@ -1,0 +1,8 @@
+.container{width: 100%;
+background-color: blue;
+background-position: top;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+height: 700px
+}
